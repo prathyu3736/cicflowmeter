@@ -37,3 +37,4 @@ cicflowmeter -i eth0 -c flows.csv
 ```
 
 - Reference: https://www.unb.ca/cic/research/applications.html#CICFlowMeter
+- Reference: git clone https://github.com/datthinh1801/cicflowmeter.git
